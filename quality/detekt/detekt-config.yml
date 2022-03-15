@@ -1,0 +1,6 @@
+build:
+  maxIssues: -1
+
+custom-rules:
+  PropertiesDocumentedInClassDocumentation:
+    active: true

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues></ManuallySuppressedIssues>
+  <CurrentIssues>
+    <ID>PropertiesDocumentedInClassDocumentation:ClassToDocument.kt$ClassToDocument$@property count The number of items. * </ID>
+    <ID>PropertiesDocumentedInClassDocumentation:ClassToDocument.kt$ClassToDocument$@property id The id of the collection.</ID>
+    <ID>PropertiesDocumentedInClassDocumentation:ClassToDocument.kt$ClassToDocument$@property size The total size of the items. * </ID>
+  </CurrentIssues>
+</SmellBaseline>
